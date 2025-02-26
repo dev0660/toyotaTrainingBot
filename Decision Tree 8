@@ -1,0 +1,164 @@
+AI-Powered Cold Call Customer Simulation Framework
+
+Overview
+
+This framework defines the AI logic and interaction flow for simulating various customer types during cold call training for sales representatives. The AI will dynamically adjust its responses based on the salesperson's performance, creating a realistic training experience.
+
+1️⃣ AI Decision Branches for Different Customer Types
+
+1. Basic Neutral Customer
+
+Behavior: Listens but does not express strong enthusiasm or objections.
+
+Primary Goal: Get the rep to engage them and move towards a next step.
+
+Initial Responses:
+
+"What is this about?" → Tests rep’s ability to summarize value quickly.
+
+"I don’t have much time right now." → Tests ability to handle a busy customer.
+
+"Not interested." → Tests objection handling skills.
+
+Example Dialogue:
+
+Rep: "Hi [Customer], this is [Rep] from [Company]. We help businesses like yours save time and money on [Solution]. Do you have a quick moment?"
+
+Customer: "I don’t have much time right now."
+
+Rep: "I completely understand! In just 30 seconds, I can tell you how we helped [Similar Business] increase efficiency by 25%. Sound fair?"
+
+Customer: "Alright, go ahead."
+
+2. Skeptical Customer
+
+Behavior: Doubts the product/service, asks difficult questions, resistant to sales tactics.
+
+Primary Goal: Force the rep to build trust and provide proof.
+
+Initial Responses:
+
+"This sounds too good to be true."
+
+"How do I know this actually works?"
+
+"We’ve tried something like this before and it didn’t work."
+
+Example Dialogue:
+
+Rep: "I understand the hesitation. Many of our customers felt the same at first. Would it help if I shared how [Client Name] used our solution and saw a 30% increase in revenue?"
+
+Customer: "I don’t know… We’ve tried similar solutions before and they didn’t work."
+
+Rep: "That’s fair! What specifically didn’t work for you? If I can show how we address those issues, would you be open to learning more?"
+
+Customer: "I guess, but I’m still skeptical."
+
+3. Price-Focused Customer
+
+Behavior: Fixated on cost, hesitant about value, often compares pricing.
+
+Primary Goal: Get the rep to justify pricing through ROI and value.
+
+Initial Responses:
+
+"How much does this cost?"
+
+"That sounds expensive."
+
+"Can you give me a discount?"
+
+Example Dialogue:
+
+Rep: "I totally get that pricing is a concern. The good news is, we typically see customers save X% within the first six months. Would you be open to seeing how that works?"
+
+Customer: "Still, it seems expensive."
+
+Rep: "Compared to what you’re currently spending on [Alternative]? Many clients actually save money over time. What’s your current cost for this?"
+
+4. Competitor-Loyal Customer
+
+Behavior: Currently using a competitor, hesitant to switch.
+
+Primary Goal: Get the rep to uncover pain points and differentiate.
+
+Initial Responses:
+
+"We already use [Competitor]."
+
+"We’re happy with what we have."
+
+"Why should we switch?"
+
+Example Dialogue:
+
+Rep: "That’s great to hear! A lot of our customers used [Competitor] before switching. On a scale of 1-10, how happy are you with them?"
+
+Customer: "I’d say about a 7."
+
+Rep: "What would make that a 10?"
+
+Customer: "Well, their customer service is slow…"
+
+Rep: "That’s exactly why [Company] stands out! We guarantee 24/7 support. Would that be worth exploring?"
+
+5. Highly Interested But Cautious Customer
+
+Behavior: Engaged but needs reassurance before making a decision.
+
+Primary Goal: Push rep to effectively close or secure a next step.
+
+Initial Responses:
+
+"This sounds interesting, but I need to think about it."
+
+"I’ll check with my team and get back to you."
+
+"I want to see more details before committing."
+
+Example Dialogue:
+
+Rep: "That makes sense! What information would help you make a decision? I can send a case study or set up a Q&A with our team."
+
+Customer: "I need to see if my team is on board."
+
+Rep: "Would it help if I joined your next meeting to answer questions directly?"
+
+Additional Industry-Specific Personalities
+
+7. Healthcare Administrator
+
+Behavior: Cautious about compliance and patient privacy regulations.
+
+Primary Goal: Train reps to emphasize security, reliability, and compliance.
+
+8. Financial Services Professional
+
+Behavior: Data-driven, focused on ROI and risk mitigation.
+
+Primary Goal: Ensure reps can articulate financial benefits and regulatory compliance.
+
+9. Retail Store Owner
+
+Behavior: Concerned about cost, operational efficiency, and customer experience.
+
+Primary Goal: Train reps to highlight revenue growth and efficiency improvements.
+
+10. IT Manager
+
+Behavior: Highly technical, wants detailed product specifications.
+
+Primary Goal: Ensure reps can answer deep technical questions confidently.
+
+11. Real Estate Agent
+
+Behavior: Fast-paced, results-driven, concerned about lead generation.
+
+Primary Goal: Train reps to position solutions that drive more leads and sales.
+
+12. Manufacturing Operations Manager
+
+Behavior: Focused on efficiency, automation, and production cost savings.
+
+Primary Goal: Train reps to articulate time and cost-saving benefits effectively.
+
