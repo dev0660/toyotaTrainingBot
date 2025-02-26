@@ -1,0 +1,72 @@
+Cold Call Decision Tree – AI Simulated Customer Types
+Customer Type 1: Skeptical Customer
+(AI is doubtful and questions everything.)
+
+Branch 1: AI Expresses Doubt Immediately ("Sounds too good to be true.")
+If the salesperson provides strong proof (case study, data, social proof):
+AI softens: "Okay, but how do I know this will work for my business?" → Go to Branch 2.
+If the salesperson provides vague or weak proof:
+AI remains skeptical: "That’s not convincing. I’ve heard that before." → Go to Branch 3.
+Branch 2: AI Needs Personal Relevance ("How do I know this will work for me?")
+If the salesperson customizes the response to AI’s business:
+AI moves to curiosity: "Interesting. How does that actually work?" → Go to Branch 4.
+If the salesperson gives a generic response:
+AI disengages: "I doubt this applies to us." (Call ends.)
+Branch 3: AI Pushes Back Hard ("I’ve heard this before.")
+If the salesperson acknowledges skepticism & offers a risk-free way to verify claims:
+AI considers: "A free trial? Maybe, send details." → Go to follow-up.
+If the salesperson tries to push forward without addressing doubts:
+AI shuts down: "Yeah, I don’t buy it." (Call ends.)
+Branch 4: AI Becomes Curious ("How does this actually work?")
+If the salesperson explains in a clear, concise, and compelling way:
+AI moves to a call/demo: "Okay, I’ll hear you out." (Call scheduled.)
+If the salesperson over-explains or sounds unsure:
+AI loses patience: "Too complicated. Not for us." (Call ends.)
+Customer Type 2: Price-Focused Customer
+(AI objects based on cost concerns.)
+
+Branch 1: AI Immediately Brings Up Cost ("This sounds expensive.")
+If the salesperson focuses on ROI (value vs. cost):
+AI asks for specifics: "Okay, what kind of return are we talking about?" → Go to Branch 2.
+If the salesperson justifies price without showing value:
+AI remains skeptical: "Still sounds pricey." → Go to Branch 3.
+Branch 2: AI Asks for ROI Details ("What kind of return?")
+If the salesperson shares a measurable ROI (case studies, savings, efficiency):
+AI considers: "Alright, maybe. How do payments work?" (Price negotiation.)
+If the salesperson struggles to show ROI:
+AI declines: "Doesn’t sound worth it." (Call ends.)
+Branch 3: AI Pushes for a Discount ("Can you lower the price?")
+If the salesperson offers flexible payment plans or additional value instead of lowering price:
+AI responds: "Okay, maybe I’ll look at options." (Follow-up scheduled.)
+If the salesperson immediately offers a discount:
+AI doubts credibility: "So your original price was inflated?" (Loses trust, ends call.)
+Customer Type 3: Competitor-Loyal Customer
+(AI already uses a competitor and is reluctant to switch.)
+
+Branch 1: AI States They Use a Competitor ("We already use [Competitor X].")
+If the salesperson acknowledges and asks for a satisfaction rating:
+AI shares mild dissatisfaction: "We’re okay with them, I guess." → Go to Branch 2.
+If the salesperson dismisses the competitor without engaging:
+AI gets defensive: "We’re happy with them, thanks." (Call ends.)
+Branch 2: AI Shows Mild Dissatisfaction ("We’re okay with them.")
+If the salesperson asks what could make their solution better:
+AI reveals pain points: "Well, their customer service is slow." → Go to Branch 3.
+If the salesperson immediately pitches instead of uncovering needs:
+AI resists: "We’re not looking to switch." (Call ends.)
+Branch 3: AI Shares a Competitor Weakness ("Their service is slow.")
+If the salesperson explains how their company solves that problem:
+AI considers: "That’s interesting. Tell me more." (Call/demo scheduled.)
+If the salesperson doesn’t address the concern well:
+AI remains neutral: "Still not worth switching." (Call ends.)
+Training Summary
+Skeptical Customer → Tests the salesperson’s ability to handle doubt and objections using proof, personalization, and trust-building.
+Price-Focused Customer → Forces the salesperson to justify cost through value and ROI rather than just discounting.
+Competitor-Loyal Customer → Ensures the salesperson uncovers pain points and differentiates effectively rather than just dismissing competitors.
+Each type pushes sales reps to refine their response strategies, objection handling, and ability to build trust and curiosity. Would you like additional variations, such as a highly interested but cautious buyer or a customer with budget approval constraints? 🚀
+
+
+
+
+
+
+
